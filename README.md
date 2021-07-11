@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Internet of Things
 - 👯 I’m looking to collaborate with other open sourcers
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkolos1&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkolos1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
