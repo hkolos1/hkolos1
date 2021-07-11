@@ -2,12 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=hkolos.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.hkolos.com/)
 
-- 💻 I'm Front-end Developer
+- 💻 I'm Front-end Web Developer
 - 🎓 I'm student of Software Development @ [Faculty of Electrical Engineering Sarajevo](https://www.etf.unsa.ba/)
 - 🌱 I’m currently learning Internet of Things
 - 👯 I’m looking to collaborate with other open sourcers
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkolos1&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkolos1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
