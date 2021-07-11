@@ -11,9 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkolos1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="hkolos.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
