@@ -1,11 +1,11 @@
-Hi there, I'm Harun 👋
+### Hi there, I'm Harun 👋
 
 - 💻 I'm Full-Stack Developer
 - 🎓 I'm student of Software Development @ [Faculty of Electrical Engineering Sarajevo](https://www.etf.unsa.ba/)
 - 🌱 I’m currently learning Internet of Things
 - 👨🏻‍💻 I’m looking to collaborate with other open sourcers
 
-### 🛠 Languages and Tools**
+### 🛠 Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> 
@@ -23,6 +23,7 @@ Hi there, I'm Harun 👋
   
 </p>
 
+<p align=center>
 ### Connect with me:
 
 [<img align="left" alt="hkolos.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -32,3 +33,4 @@ Hi there, I'm Harun 👋
 [website]: https://www.hkolos.com/
 [instagram]: https://www.instagram.com/kolosharun/
 [linkedin]: https://www.linkedin.com/in/harunkolos/
+</p>
