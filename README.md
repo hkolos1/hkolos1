@@ -20,16 +20,14 @@
   <a href="https://github.com/hkolos1/hkolos1">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkolos1&layout=compact" />
   </a>
-  
 </p>
 
-<p align=center>
-Connect with me:
+### 🔗 Connect with me:
 
 [<img align="center" alt="hkolos.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="harunkolos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="kolosharun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</p>
+
 [website]: https://www.hkolos.com/
 [instagram]: https://www.instagram.com/kolosharun/
 [linkedin]: https://www.linkedin.com/in/harunkolos/
