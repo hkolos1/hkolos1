@@ -1,5 +1,5 @@
 <h3 align="center">
-### Hi there, I'm Harun 👋
+Hi there, I'm Harun 👋
 </h3>
 
 [![Website](https://img.shields.io/website?label=hkolos.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.hkolos.com/)
@@ -20,6 +20,16 @@
 <p align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkolos1&theme=vue-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkolos1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<p align=center>
+  <a href="https://github.com/hkolos1/hkolos1" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=hkolos1&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/hkolos1/hkolos1">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkolos1&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+  
 </p>
 
 ### Connect with me:
