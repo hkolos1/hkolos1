@@ -13,7 +13,7 @@
 
 <p align=center>
   <a href="https://github.com/hkolos1/hkolos1" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=hkolos1&theme=react-dark&show_icons=true">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=hkolos1&theme=github-dark&show_icons=true">
   </a>
   <a href="https://github.com/hkolos1/hkolos1">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkolos1&layout=compact" />
