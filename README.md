@@ -1,6 +1,6 @@
 ### Hi there, I'm Harun 👋
 
-- 🎓 I'm student of Software Development @ [Faculty of Electrical Engineering Sarajevo](https://www.etf.unsa.ba/)
+- 🎓 I'm Junior Software Developer @ [Monri Payments](https://monri.com/ba/)
 - 🌱 I’m currently learning Internet of Things
 - 👨🏻‍💻 I’m looking to collaborate with other open sourcers
 
