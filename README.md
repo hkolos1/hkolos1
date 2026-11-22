@@ -1,30 +1,36 @@
 ### Hi there, I'm Harun 👋
 
-- 🎓 I'm Junior Software Developer @ [Monri Payments](https://monri.com/ba/)
-- 🌱 I’m currently learning Internet of Things
-- 👨🏻‍💻 I’m looking to collaborate with other open sourcers
+- 💼 Software Developer at [Monri Payments](https://monri.com/ba/)
+- 🌱 Currently learning Internet of Things
+- 🤝 Open to collaborating on open source projects
 
-### 🛠 Languages and Tools
+### 🛠 Languages & Frameworks
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,ts,js,rxjs,html,sass,bootstrap,kotlin,arduino&theme=light" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,rxjs,html,sass,bootstrap,kotlin,arduino&theme=dark" alt="Angular, TypeScript, JavaScript, RxJS, HTML, Sass, Bootstrap, Kotlin, Arduino" />
+</picture>
 
-<p align=center>
-  <a href="https://github.com/hkolos1/hkolos1" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=hkolos1&theme=react&show_icons=true">
-  </a>
-  <a href="https://github.com/hkolos1/hkolos1">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkolos1&layout=compact" />
-  </a>
-</p>
+### 🧪 Testing & Quality
 
-### 🔗 Connect with me:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/testing-light.svg" />
+  <img src="assets/testing-dark.svg" alt="Vitest, Cypress, Playwright, Jasmine, Karma, ESLint, SonarQube" />
+</picture>
 
-[<img align="center" alt="harunkolos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="kolosharun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### ⚙️ DevOps & Tools
 
-[instagram]: https://www.instagram.com/kolosharun/
-[linkedin]: https://www.linkedin.com/in/harunkolos/
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,docker,nginx,gitlab,git,webstorm,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,nginx,gitlab,git,webstorm,vscode&theme=dark" alt="Node.js, Docker, Nginx, GitLab, Git, WebStorm, VS Code" />
+</picture>
 
+### 📊 Most Used Languages
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkolos1&layout=compact&theme=react&hide_border=true" alt="Harun's most used languages" />
+
+### 🔗 Connect with me
+
+<a href="https://www.linkedin.com/in/harunkolos/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Harun on LinkedIn" />
+</a>
