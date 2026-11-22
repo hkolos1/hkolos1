@@ -7,8 +7,8 @@
 ### 🛠 Languages & Frameworks
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,ts,js,rxjs,html,sass,bootstrap,kotlin,arduino&theme=light" />
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,rxjs,html,sass,bootstrap,kotlin,arduino&theme=dark" alt="Angular, TypeScript, JavaScript, RxJS, HTML, Sass, Bootstrap, Kotlin, Arduino" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cts%2Cjs%2Crxjs%2Chtml%2Csass%2Cbootstrap%2Ckotlin%2Carduino&theme=light" />
+  <img src="https://skillicons.dev/icons?i=angular%2Cts%2Cjs%2Crxjs%2Chtml%2Csass%2Cbootstrap%2Ckotlin%2Carduino&theme=dark" alt="Angular, TypeScript, JavaScript, RxJS, HTML, Sass, Bootstrap, Kotlin, Arduino" />
 </picture>
 
 ### 🧪 Testing & Quality
@@ -21,8 +21,8 @@
 ### ⚙️ DevOps & Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,docker,nginx,gitlab,git,webstorm,vscode&theme=light" />
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,nginx,gitlab,git,webstorm,vscode&theme=dark" alt="Node.js, Docker, Nginx, GitLab, Git, WebStorm, VS Code" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cdocker%2Cnginx%2Cgitlab%2Cgit%2Cwebstorm%2Cvscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs%2Cdocker%2Cnginx%2Cgitlab%2Cgit%2Cwebstorm%2Cvscode&theme=dark" alt="Node.js, Docker, Nginx, GitLab, Git, WebStorm, VS Code" />
 </picture>
 
 ### 📊 Most Used Languages
