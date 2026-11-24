@@ -7,8 +7,8 @@
 ### 🛠 Languages & Frameworks
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular%2Cts%2Cjs%2Crxjs%2Chtml%2Csass%2Cbootstrap%2Ckotlin%2Carduino&theme=light" />
-  <img src="https://skillicons.dev/icons?i=angular%2Cts%2Cjs%2Crxjs%2Chtml%2Csass%2Cbootstrap%2Ckotlin%2Carduino&theme=dark" alt="Angular, TypeScript, JavaScript, RxJS, HTML, Sass, Bootstrap, Kotlin, Arduino" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-light.svg" />
+  <img src="assets/languages-dark.svg" height="48" alt="Angular, TypeScript, JavaScript, RxJS, HTML, Sass, Bootstrap, Kotlin, Arduino" />
 </picture>
 
 ### 🧪 Testing & Quality
